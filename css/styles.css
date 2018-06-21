@@ -29,7 +29,8 @@ table {
 
 html {
     margin:    0 auto;
-    max-width: 1313px;
+    max-width: 1280px;
+    overflow-x:hidden;
 }
 
 body {
@@ -80,7 +81,7 @@ body {
     background-position: center;
 }
 .icon-row {
-    width: 1313px;
+    width: 1280px;
     margin: 0 auto;
     text-align: center;
     color: #fff;
@@ -97,13 +98,13 @@ body {
     height: 225px;
 }
 .border-boxes {
-    width: 1313px;
+    width: 1280px;
     margin: 0 auto;
     color: #fff;
     overflow: auto;
 }
 .box-row {
-    width: 1313px;
+    width: 1280px;
     overflow: auto;
     display: flex;
     align-items: center;
